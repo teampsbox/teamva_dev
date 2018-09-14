@@ -1,0 +1,9 @@
+.vscode
+
+flask_env/
+
+app.db
+
+*.pyc
+*.pyo
+__pycache__
