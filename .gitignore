@@ -4,6 +4,7 @@ flask_env/
 
 app.db
 
+# Compiled Python files
 *.pyc
 *.pyo
 __pycache__
